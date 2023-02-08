@@ -1,7 +1,7 @@
 
 
 {
-  "name": "Astro-Md",
+  "name": "QUEEN MISHI-Md",
   "version": "0.0.6",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
@@ -18,8 +18,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
+"author": "SPACE",
+"developer": "SPACE",
 "license": "GPL-3.0-or-later",
 "homepage": "https://github.com/",
 "dependencies": {
